@@ -1,0 +1,26 @@
+--- AES File Encryption & Decryption Tool ---
+1. Encrypt a file
+2. Decrypt a file
+3. Exit
+Enter choice: 1
+Enter password: 
+Enter input file name: data.txt
+Enter output file name: store.txt
+✅ File 'data.txt' encrypted successfully into 'store.txt'.
+
+--- AES File Encryption & Decryption Tool ---
+1. Encrypt a file
+2. Decrypt a file
+3. Exit
+Enter choice: 2
+Enter password:
+Enter encrypted file name: store.txt
+Enter output file name: free.txt
+✅ File 'store.txt' decrypted successfully into 'free.txt'.
+
+--- AES File Encryption & Decryption Tool ---
+1. Encrypt a file
+2. Decrypt a file
+3. Exit
+Enter choice: 3
+👋 Exiting program.
